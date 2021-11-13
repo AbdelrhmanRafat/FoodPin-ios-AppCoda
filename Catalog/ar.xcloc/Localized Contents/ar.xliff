@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="FoodPin/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ar">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>FoodPin</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
+        <source>You need to grant the app access to your camera in order to take photos.</source>
+        <note>Privacy - Camera Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSPhotoLibraryUsageDescription" xml:space="preserve">
+        <source>You need to grant the app access to your photo library so you can pick your favorite restaurant photo.</source>
+        <note>Privacy - Photo Library Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="FoodPin/en.lproj/Localizable.strings" source-language="en" target-language="ar" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
+    </header>
+    <body>
+      <trans-unit id="Camera" xml:space="preserve">
+        <source>Camera</source>
+        <target>كاميرا</target>
+        <note>Camera</note>
+      </trans-unit>
+      <trans-unit id="Facebook" xml:space="preserve">
+        <source>Facebook</source>
+        <target>فيس بوك</target>
+        <note>Facebook</note>
+      </trans-unit>
+      <trans-unit id="Feedback" xml:space="preserve">
+        <source>Feedback</source>
+        <target>ردود الفعل</target>
+        <note>Feedback</note>
+      </trans-unit>
+      <trans-unit id="Follow Us" xml:space="preserve">
+        <source>Follow Us</source>
+        <target>تابعنا</target>
+        <note>Follow Us</note>
+      </trans-unit>
+      <trans-unit id="Instagram" xml:space="preserve">
+        <source>Instagram</source>
+        <target>انستجرام</target>
+        <note>Instagram</note>
+      </trans-unit>
+      <trans-unit id="Photo Library" xml:space="preserve">
+        <source>Photo Library</source>
+        <target>معرض الصور</target>
+        <note>Photo-Library</note>
+      </trans-unit>
+      <trans-unit id="Rate us on App Store" xml:space="preserve">
+        <source>Rate us on App Store</source>
+        <target>قيمنا علي متجر التطبيقات</target>
+        <note>Rate us on App Store</note>
+      </trans-unit>
+      <trans-unit id="Search restaurants..." xml:space="preserve">
+        <source>Search restaurants...</source>
+        <target>...ابحث عن المطعم</target>
+        <note>Search restaurants...</note>
+      </trans-unit>
+      <trans-unit id="Tell us your feedback" xml:space="preserve">
+        <source>Tell us your feedback</source>
+        <target>اخبرنا بتفاعلك مع التطبيق</target>
+        <note>Tell us your feedback</note>
+      </trans-unit>
+      <trans-unit id="Twitter" xml:space="preserve">
+        <source>Twitter</source>
+        <target>تويتر</target>
+        <note>Twitter</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="FoodPin/Storyboard/Base.lproj/About.storyboard" source-language="en" target-language="ar" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
+    </header>
+    <body>
+      <trans-unit id="03l-7X-4Hs.title" xml:space="preserve">
+        <source>About</source>
+        <target>عن التطبيق</target>
+        <note>Class = "UINavigationItem"; title = "About"; ObjectID = "03l-7X-4Hs";</note>
+      </trans-unit>
+      <trans-unit id="lo5-cX-Jw9.title" xml:space="preserve">
+        <source>About</source>
+        <target>عن التطبيق</target>
+        <note>Class = "UITabBarItem"; title = "About"; ObjectID = "lo5-cX-Jw9";</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
